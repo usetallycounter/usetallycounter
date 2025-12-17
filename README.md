@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 We are usetallycounter.
+
+<p>We created this simple <a href="https://usetallycounter.com">counting tool</a> to solve our own problem.</p>
+<p>We needed a simple tool where we can use multiple counters. Its a simple web tool that doesnt need any registration or login. And its totally free without any ads.</p>
 
 <!--
 **usetallycounter/usetallycounter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
